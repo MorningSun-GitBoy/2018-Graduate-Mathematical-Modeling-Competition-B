@@ -1,0 +1,98 @@
+
+elitism = true;             % 选择精英操作
+population_size = 100;      % 种群大小
+generation_size = 2000;      % 最大迭代次数
+cross_rate = 1;           % 交叉概率
+mutate_rate = 1;         % 变异概率
+   5.338959511858662e+03
+
+elitism = true;             % 选择精英操作
+population_size = 200;      % 种群大小
+generation_size = 2000;      % 最大迭代次数
+cross_rate = 1;           % 交叉概率
+mutate_rate = 1;         % 变异概率
+   5.338959511858662e+03
+
+elitism = true;             % 选择精英操作
+population_size = 200;      % 种群大小
+generation_size = 600;      % 最大迭代次数
+cross_rate = 1;           % 交叉概率
+mutate_rate = 1;         % 变异概率
+   5.326950162346041e+03
+
+elitism = true;             % 选择精英操作
+population_size = 200;      % 种群大小
+generation_size = 600;      % 最大迭代次数
+cross_rate = 0.9;           % 交叉概率
+mutate_rate = 1;         % 变异概率
+   5.330798143734816e+03
+
+elitism = true;             % 选择精英操作
+population_size = 200;      % 种群大小
+generation_size = 1000;      % 最大迭代次数
+cross_rate = 1;           % 交叉概率
+mutate_rate = 1;         % 变异概率
+   5.330798143734816e+03
+
+elitism = true;             % 选择精英操作
+population_size = 100;      % 种群大小
+generation_size = 1000;      % 最大迭代次数
+cross_rate = 1;           % 交叉概率
+mutate_rate = 1;         % 变异概率
+   5.326191730378557e+03
+
+elitism = true;             % 选择精英操作
+population_size = 100;      % 种群大小
+generation_size = 1000;      % 最大迭代次数
+cross_rate = 0.9;           % 交叉概率
+mutate_rate = 1;         % 变异概率
+   5.326191730378557e+03
+
+elitism = true;             % 选择精英操作
+population_size = 90;      % 种群大小
+generation_size = 2000;      % 最大迭代次数
+cross_rate = 1;           % 交叉概率
+mutate_rate = 1;         % 变异概率
+   5.350492364168546e+03
+
+elitism = true;             % 选择精英操作
+population_size = 80;      % 种群大小
+generation_size = 2000;      % 最大迭代次数
+cross_rate = 1;           % 交叉概率
+mutate_rate = 1;         % 变异概率
+   5.344253531440087e+03
+
+elitism = true;             % 选择精英操作
+population_size = 85;      % 种群大小
+generation_size = 3000;      % 最大迭代次数
+cross_rate = 1;           % 交叉概率
+mutate_rate = 1;         % 变异概率
+   5.357532099680594e+03
+
+elitism = true;             % 选择精英操作
+population_size = 90;      % 种群大小
+generation_size = 3000;      % 最大迭代次数
+cross_rate = 1;           % 交叉概率
+mutate_rate = 1;         % 变异概率
+   5.353043576620378e+03
+
+elitism = true;             % 选择精英操作
+population_size = 100;      % 种群大小
+generation_size = 3000;      % 最大迭代次数
+cross_rate = 1;           % 交叉概率
+mutate_rate = 1;         % 变异概率
+   5.354530320417512e+03
+
+elitism = true;             % 选择精英操作
+population_size = 96;      % 种群大小
+generation_size = 2600;      % 最大迭代次数
+cross_rate = 1;           % 交叉概率
+mutate_rate = 1;         % 变异概率
+   5.354530320417512e+03
+
+elitism = true;             % 选择精英操作
+population_size = 96;      % 种群大小
+generation_size = 5600;      % 最大迭代次数
+cross_rate = 1;           % 交叉概率
+mutate_rate = 1;         % 变异概率
+   5.344965918165585e+03
